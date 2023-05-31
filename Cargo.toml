@@ -1,0 +1,2 @@
+[workspace]
+members = ["sierpinski_carpet_macroquad"]

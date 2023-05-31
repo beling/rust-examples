@@ -1,0 +1,10 @@
+[package]
+name = "sierpinski_carpet_macroquad"
+version = "0.1.0"
+edition = "2021"
+authors = ["Piotr Beling <piotr.beling@wmii.uni.lodz.pl>"]
+license = "MIT OR Apache-2.0"
+description = "The program that draws a fractal called the Sierpiński carpet."
+
+[dependencies]
+macroquad = "0.3"
